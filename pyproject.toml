@@ -6,6 +6,7 @@ authors = ["Paulo Aires <aires.pmc_gmr@hotmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
+matplotlib = "^3.2.1"
 
 [tool.poetry.dev-dependencies]
 
